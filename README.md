@@ -1,1 +1,1 @@
-Big Data Project
+Big Data Course
